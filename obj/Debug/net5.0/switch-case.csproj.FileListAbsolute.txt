@@ -1,0 +1,16 @@
+C:\Users\Owner\Desktop\Pratikler\switch-case\bin\Debug\net5.0\switch-case.exe
+C:\Users\Owner\Desktop\Pratikler\switch-case\bin\Debug\net5.0\switch-case.deps.json
+C:\Users\Owner\Desktop\Pratikler\switch-case\bin\Debug\net5.0\switch-case.runtimeconfig.json
+C:\Users\Owner\Desktop\Pratikler\switch-case\bin\Debug\net5.0\switch-case.runtimeconfig.dev.json
+C:\Users\Owner\Desktop\Pratikler\switch-case\bin\Debug\net5.0\switch-case.dll
+C:\Users\Owner\Desktop\Pratikler\switch-case\bin\Debug\net5.0\ref\switch-case.dll
+C:\Users\Owner\Desktop\Pratikler\switch-case\bin\Debug\net5.0\switch-case.pdb
+C:\Users\Owner\Desktop\Pratikler\switch-case\obj\Debug\net5.0\switch-case.csproj.AssemblyReference.cache
+C:\Users\Owner\Desktop\Pratikler\switch-case\obj\Debug\net5.0\switch-case.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owner\Desktop\Pratikler\switch-case\obj\Debug\net5.0\switch-case.AssemblyInfoInputs.cache
+C:\Users\Owner\Desktop\Pratikler\switch-case\obj\Debug\net5.0\switch-case.AssemblyInfo.cs
+C:\Users\Owner\Desktop\Pratikler\switch-case\obj\Debug\net5.0\switch-case.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Desktop\Pratikler\switch-case\obj\Debug\net5.0\switch-case.dll
+C:\Users\Owner\Desktop\Pratikler\switch-case\obj\Debug\net5.0\ref\switch-case.dll
+C:\Users\Owner\Desktop\Pratikler\switch-case\obj\Debug\net5.0\switch-case.pdb
+C:\Users\Owner\Desktop\Pratikler\switch-case\obj\Debug\net5.0\switch-case.genruntimeconfig.cache
